@@ -11,7 +11,7 @@ Patch:		briskola.desktop.patch
 License:	GPLv3+
 BuildRequires:	cmake
 BuildRequires:	glibc-devel
-BuildRequires:	libfontconfig-devel
+BuildRequires:	pkgconfig(fontconfig)
 BuildRequires:	freetype2-devel
 BuildRequires:	libglib-devel
 BuildRequires:	libice-devel
