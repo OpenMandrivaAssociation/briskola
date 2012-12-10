@@ -61,3 +61,11 @@ and the modest skills required to players.
 %{_datadir}/briskola/text/*.png
 %{_datadir}/pixmaps/*.png
 
+
+
+%changelog
+* Tue Feb 21 2012 Andrey Bondrov <abondrov@mandriva.org> 1.0.0-1mdv2012.0
++ Revision: 778704
+- Update BuildRequires
+- imported package briskola
+
