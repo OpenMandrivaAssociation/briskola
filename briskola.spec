@@ -1,7 +1,7 @@
 Summary:	Clone of the Italian card game Briscola
 Name:		briskola
 Version:	1.0.0
-Release:	2
+Release:	3
 License:	GPLv3+
 Group:		Games/Cards
 Url:		http://www.briskola.net
