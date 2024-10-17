@@ -4,7 +4,7 @@ Version:	1.0.0
 Release:	3
 License:	GPLv3+
 Group:		Games/Cards
-Url:		http://www.briskola.net
+Url:		https://www.briskola.net
 Source0:	http://www.briskola.net/files/briskola-%{version}.tar.gz
 Patch0:		briskola.desktop.patch
 BuildRequires:	cmake
